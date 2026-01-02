@@ -1,5 +1,11 @@
 # Bulma Changelog
 
+## 1.0.5
+
+### Bug Fixes
+
+- Fix #4026: migrate code to avoid Sass 1.95 deprecation warnings of if-functions.
+
 ## 1.0.4
 
 ### New Features
